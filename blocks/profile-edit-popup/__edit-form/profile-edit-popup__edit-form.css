@@ -1,0 +1,9 @@
+.profile-edit-popup__edit-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 2px;
+    padding: 25px 22px;
+    background-color: crimson;
+}

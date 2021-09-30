@@ -1,0 +1,16 @@
+.profile-edit-popup__edit-form-status-input-area{
+    /*Сбрасываем стандартные настройки*/
+    margin-inline: 0;
+    padding-block: 0;
+    padding-inline: 0;
+    border-width: 0;
+    border-style: unset;
+    border-color: unset;
+    /*Настраиваем элемент*/
+    display: block;
+    box-sizing: border-box;
+    margin-top: 54px;
+    padding-bottom: 13px;
+    border-bottom: 1px solid #000000;
+    opacity: 0.2;
+}

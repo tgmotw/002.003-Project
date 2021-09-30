@@ -1,0 +1,8 @@
+.profile-edit-popup__container{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 470px;
+    height: 330px;
+    background-color: chocolate;
+}

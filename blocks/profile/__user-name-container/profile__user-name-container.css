@@ -1,0 +1,11 @@
+.profile__user-name-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (max-width: 410px){
+    .profile__user-name-container{
+        margin-top: 23px;
+    }
+}

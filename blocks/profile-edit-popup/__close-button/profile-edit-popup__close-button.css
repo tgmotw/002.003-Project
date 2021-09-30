@@ -1,0 +1,33 @@
+.profile-edit-popup__close-button{
+    /*Сброс стандартных настроек*/
+    text-rendering: unset;
+    color: unset;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-indent: 0;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: unset;
+    cursor: default;
+    background-color: unset;
+    box-sizing: border-box;
+    font: unset;
+    padding: 0;
+    border-width: 0;
+    border-style: unset;
+    border-color: unset;
+    border-image: unset;
+    /*Кастомные настройки*/
+    width: 32px;
+    height: 32px;
+    background-image: url("images/profile-edit-popup__close-button-icon.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-self: flex-end;
+}
+
+.profile-edit-popup__close-button:hover{
+    opacity: .6;
+}
